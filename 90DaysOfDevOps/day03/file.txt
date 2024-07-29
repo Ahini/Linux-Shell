@@ -1,0 +1,8 @@
+Q1. View the content of a file and display line numbers.
+a for apple
+b for ball
+c for cat
+
+
+
+d for dog
